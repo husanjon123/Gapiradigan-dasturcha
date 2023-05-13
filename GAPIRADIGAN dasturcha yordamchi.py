@@ -1,3 +1,5 @@
+# MANBA Paydev youtube canalidan olindi 
+# Paydev youtube canaliga raxmat
 
 
 
@@ -18,6 +20,12 @@
 #gap.runAndWait()
 #print(gap)
 
+
+#yuklash uchun manzillar
+#
+#
+#
+#
 
 
 
