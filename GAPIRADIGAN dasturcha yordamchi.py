@@ -12,23 +12,24 @@
 
 
 
-
-
-
 #gap = pyttsx3.init()
 #gap.say(input("kimligingiz haqida malumot bering"))
 #gap.runAndWait()
 #print(gap)
 
 
-#yuklash uchun manzillar
-#
-#
-#
-#
+Yuklash uchun manzillar
 
+# https://pypi.org/project/1OS/                          os
+# https://pypi.org/project/adhan-time/                   time
+# https://pypi.org/project/speech2speech/                speech_recognition
+# https://pypi.org/project/rapidfuzz/                    fuzzywuzzy
+# https://pypi.org/project/pyttsx4/                      pyttsx3
+# https://pypi.org/project/DateTime/                     datetime
 
-
+🇺🇿  #   u yerda kutub xonalarni yuklash va ishlatish haqida tuliq malumot larni olishingiz mumkin va versiyalar bilan tanishasiz
+ru  #   там можно получить полную информацию о скачивании и использовании библиотек и проверить версии
+🇺🇸  #   there you can download libraries and get complete information about their usage and check versions
 
 # Ovozli yordamchi Jarvis
 import os
